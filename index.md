@@ -1,7 +1,7 @@
 ---
 title: Dreamers Club
 layout: home
-description: Jekyll Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+description: We are a fitness and wellness organisation that provides personal training, nutrition and wellness advice to people of all ages and fitness levels.
 intro_image: "images/illustrations/a-man-and-a-woman-jogging.svg"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
@@ -10,4 +10,4 @@ show_call_box: true
 
 # Serif - A Jekyll Business Theme.
 
-Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+We are a fitness and wellness organisation that provides personal training, nutrition and wellness advice to people of all ages and fitness levels.

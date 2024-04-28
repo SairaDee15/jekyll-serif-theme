@@ -38,10 +38,6 @@ sass:
 plugins:
   - jekyll-environment-variables
 
-# inherit:
-#   - _layouts
-#   - _includes
-#   - _sass
 
 exclude:
   - Gemfile
