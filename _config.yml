@@ -1,14 +1,14 @@
 baseurl: '/'
 permalink: pretty
-title: 'Jekyll Serif'
+title: 'Dreamers Club'
 
 logo:
-  mobile: "images/logo/logo-mobile.svg"
+  mobile: "images/logo/DAOne.svg"
   mobile_height: "32px"
   mobile_width: "32px"
-  desktop: "images/logo/logo.svg"
-  desktop_height: "32px"
-  desktop_width: "120px"
+  desktop: "images/logo/Mediamodifier-Design.svg"
+  desktop_height: "39px"
+  desktop_width: "200px"
 
 home: 
   limit_services: 6
@@ -38,6 +38,11 @@ sass:
 plugins:
   - jekyll-environment-variables
 
+# inherit:
+#   - _layouts
+#   - _includes
+#   - _sass
+
 exclude:
   - Gemfile
   - Gemfile.lock
@@ -49,3 +54,4 @@ exclude:
   - LICENSE.md
   - LICENSE
   - README.md
+  

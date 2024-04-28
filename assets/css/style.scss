@@ -2,13 +2,14 @@
 ---
 
 // Colors
-$primary: #e5261f;
-$primary-dark: #a01b16;
-$secondary: #f88379;
-$black: #2f2f41;
-$white: #ffffff;
-$white-offset: #fff6f8;
-$steel: #5c5a5a;
+
+$primary: #1e1919;
+$primary-dark: #5a63a8;
+$secondary: #2c158f;
+$black: #000000;
+$white: #c6c6f5;
+$white-offset: #e8e0fd;
+$steel: #000000;
 
 // Links
 $link-color: $primary;
@@ -50,7 +51,7 @@ $sub-footer-text-color: $white;
 @import "bootstrap/grid";
 @import "bootstrap/tables";
 @import "bootstrap/forms";
-// @import "bootstrap/buttons";
+@import "bootstrap/buttons";
 // @import "bootstrap/transitions";
 // @import "bootstrap/dropdown";
 // @import "bootstrap/button-group";

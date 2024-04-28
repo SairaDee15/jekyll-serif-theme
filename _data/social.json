@@ -1,10 +1,5 @@
 [
   {
-    "name": "Github",
-    "link": "https://github.com/zerostaticthemes/jekyll-serif-theme",
-    "image": "images/social/github.svg"
-  },
-  {
     "name": "Twitter",
     "link": "https://twitter.com/zerostaticio",
     "image": "images/social/twitter.svg"
@@ -16,7 +11,7 @@
   },
   {
       "name": "Email",
-      "link": "mailto:ekyllserif@example.com ",
+      "link": "mailto:dreamersclub880@gmail.com ",
       "image": "images/social/email.svg"
   },
   {
