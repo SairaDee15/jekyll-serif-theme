@@ -4,10 +4,11 @@ date: 2018-12-28T15:14:39+10:00
 weight: 4
 ---
 
+<!-- umbers must match what really happened in the transaction. The ingredients of faithful representation are completeness, neutrality and free from error.
 Business advisory is the final tier of the accounting pyramid.
 <!--more-->
 
-Business advisory involves reporting on performance as well as advising on strategic plans, risk assessment, and succession plans.
+<!-- Business advisory involves reporting on performance as well as advising on strategic plans, risk assessment, and succession plans.
 
 ![Accounting Services](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
 
@@ -29,8 +30,7 @@ Information is considered material if its omission or misstatement could influen
 
 ## Faithful Representation
 
-Faithful representation means that the actual effects of the transactions shall be properly accounted for and reported in the financial statements. The words and numbers must match what really happened in the transaction. The ingredients of faithful representation are completeness, neutrality and free from error.
-
+Faithful representation means that the actual effects of the transactions shall be properly accounted for and reported in the financial statements. The words and n
 ## Enhancing Qualitative Characteristics
 
 ### Verifiability
@@ -84,4 +84,4 @@ The balance sheet is the financial statement showing a firm's assets, liabilitie
     - international
 - goodwill
 
-Owner's equity, sometimes referred to as net assets, is represented differently depending on the type of business ownership. Business ownership can be in the form of a sole proprietorship, partnership, or a corporation. For a corporation, the owner's equity portion usually shows common stock, and retained earnings (earnings kept in the company). Retained earnings come from the retained earnings statement, prepared prior to the balance sheet.
+<!-- Owner's equity, sometimes referred to as net assets, is represented differently depending on the type of business ownership. Business ownership can be in the form of a sole proprietorship, partnership, or a corporation. For a corporation, the owner's equity portion usually shows common stock, and retained earnings (earnings kept in the company). Retained earnings come from the retained earnings statement, prepared prior to the balance sheet. --> 
