@@ -10,7 +10,7 @@
   },
   {
     "title": "Certified Coaches",
-    "description": "All members of our team are certified accountants.",
+    "description": "All members of our team are certified coaches.",
     "image": {
       "url": "images/features/noun_The Process_1885341.svg",
       "width": 80,
@@ -18,8 +18,8 @@
     }
   },
   {
-    "title": "Tax Compliance",
-    "description": "We stay up to date on the latest changes to the tax code.",
+    "title": "Entrepreneurship",
+    "description": "We aim to empower entrepreneurs to achieve their health goals.",
     "image": {
       "url": "images/features/noun_3d modeling_1885342.svg",
       "width": 80,

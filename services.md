@@ -8,5 +8,3 @@ intro_image_hide_on_mobile: true
 ---
 
 # Services that help you grow
-
-

@@ -4,31 +4,33 @@ date: 2018-11-18T12:33:46+10:00
 weight: 1
 ---
 
-<!-- Financial accounting (financial accountancy) is the field of accounting concerned with the **summary, analysis and reporting** of financial transactions related to a business.
 
-![Accounting Services](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
+<!-- ![Accounting Services](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg) -->
 
-# Objectives
+# Discover the Beauty of Nature with Our Guided Hiking Sessions
+Embark on an unforgettable adventure with our guided hiking sessions, designed to invigorate your body, mind, and soul. Whether you're a seasoned hiker or just starting out, our expert guides will lead you through breathtaking landscapes, offering personalized tips and insights along the way.
 
-Financial accounting and financial reporting are often used as synonyms.
+## Why Choose Our Hiking Sessions?
 
-1. According to International Financial Reporting Standards: the objective of financial reporting is:
-2. To provide financial information that is useful to existing and potential investors, lenders and other creditors in making decisions about providing resources to the reporting entity.
-3. According to the European Accounting Association:
+- Experienced Guides: Our knowledgeable guides ensure a safe and enriching experience for all skill levels.
+- Stunning Trails: Explore diverse trails, from serene forest paths to challenging mountain routes.
+- Health & Wellness: Hiking is a fantastic way to boost your physical fitness and mental well-being.
+- Community & Connection: Meet like-minded individuals and build lasting friendships on the trail.
 
-## Relevance
+## What to Expect
 
-Relevance is the capacity of the financial information to influence the decision of its users. The ingredients of relevance are the predictive value and confirmatory value. Materiality is a sub-quality of relevance.
+Each hike includes:
 
-> The ingredients of relevance are the predictive value and confirmatory value.
+- Detailed trail information and safety briefings
+- Tips on hiking techniques and gear
+- Opportunities to capture stunning photos of nature's beauty
+- Refreshments and rest breaks to keep you energized
 
-Information is considered material if its omission or misstatement could influence the economic decisions of users taken on the basis of the financial statements.
+Join us and transform your hiking journey into a truly memorable experience. Check out our gallery of past hikes to see the incredible views and happy faces of our participants.
 
-## Faithful Representation
+Ready to hit the trails? Book your hike today and take the first step towards a healthier, happier you.
 
-Faithful representation means that the actual effects of the transactions shall be properly accounted for and reported in the financial statements. The words and numbers must match what really happened in the transaction. The ingredients of faithful representation are completeness, neutrality and free from error.
-
-## Enhancing Qualitative Characteristics
+<!-- ## Enhancing Qualitative Characteristics
 
 ### Verifiability
 
@@ -81,6 +83,6 @@ The balance sheet is the financial statement showing a firm's assets, liabilitie
     - international
 - goodwill
 
-Owner's equity, sometimes referred to as net assets, is represented differently depending on the type of business ownership. Business ownership can be in the form of a sole proprietorship, partnership, or a corporation. For a corporation, the owner's equity portion usually shows common stock, and retained earnings (earnings kept in the company). Retained earnings come from the retained earnings statement, prepared prior to the balance sheet. -->
+Owner's equity, sometimes referred to as net assets, is represented differently depending on the type of business ownership. Business ownership can be in the form of a sole proprietorship, partnership, or a corporation. For a corporation, the owner's equity portion usually shows common stock, and retained earnings (earnings kept in the company). Retained earnings come from the retained earnings statement, prepared prior to the balance sheet. --> 
 
 
