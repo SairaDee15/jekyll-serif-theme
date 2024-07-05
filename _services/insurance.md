@@ -1,37 +1,36 @@
 ---
 title: "Active Lifestyle Guidance"
 date: 2019-05-18T12:33:46+10:00
-weight: 7
+weight: 1
 ---
 
-<!-- Lorem markdownum **Achaica revolutaque amore**, penitus puppes nec furit,
-clipeus fatetur, mira inter accedere. Dedit dum raptoresque Oete dolorem
-Cretaeas enim [ipse pectora excusat](#in-poscat) candentibus fertur? Furtiva
-Orontes Erysicthona dona, est per Achille viridi draconis cultis mota milia.
+<!-- ![Accounting Services](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg) -->
+<!--  -->
+# Embrace a Healthier You with Our Active Lifestyle Guidance
 
-![Accounting Services](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
+Transform your life with our comprehensive Active Lifestyle Guidance services, designed to help you achieve optimal health and well-being. Our organization is committed to supporting you on your journey to a more active, balanced, and fulfilling lifestyle.
 
-# Objectives
+## Why Choose Our Active Lifestyle Guidance?
 
-Financial accounting and financial reporting are often used as synonyms.
+- Personalized Plans: Receive tailored advice and plans that cater to your specific fitness goals and lifestyle needs.
+- Expert Guidance: Work with experienced coaches who are passionate about helping you succeed.
+- Holistic Approach: Our services address physical, mental, and emotional well-being to ensure lasting results.
+- Community Support: Join a supportive community that motivates and encourages you every step of the way.
 
-1. According to International Financial Reporting Standards: the objective of financial reporting is:
-2. To provide financial information that is useful to existing and potential investors, lenders and other creditors in making decisions about providing resources to the reporting entity.
-3. According to the European Accounting Association:
+## What to Expect
 
-## Relevance
+Our Active Lifestyle Guidance includes:
 
-Relevance is the capacity of the financial information to influence the decision of its users. The ingredients of relevance are the predictive value and confirmatory value. Materiality is a sub-quality of relevance.
+- Fitness Coaching: Personalized workout plans, whether you prefer jogging, hiking, or other activities, to keep you motivated and on track.
+- Nutritional Advice: Expert tips and meal plans to fuel your body and enhance your performance.
+- Mindfulness Practices: Techniques to manage stress, improve focus, and boost overall mental health.
+- Progress Tracking: Regular assessments to monitor your progress and adjust your plans as needed.
+  
+Discover the benefits of an active lifestyle through our inspiring sessions and supportive environment. Check out our success stories and see how our guidance has helped others lead healthier, more active lives.
 
-> The ingredients of relevance are the predictive value and confirmatory value.
+Ready to embrace a healthier you? Join our Active Lifestyle Guidance program today and take the first step towards a more vibrant, energized, and fulfilling life.
 
-Information is considered material if its omission or misstatement could influence the economic decisions of users taken on the basis of the financial statements.
-
-## Faithful Representation
-
-Faithful representation means that the actual effects of the transactions shall be properly accounted for and reported in the financial statements. The words and numbers must match what really happened in the transaction. The ingredients of faithful representation are completeness, neutrality and free from error.
-
-## Enhancing Qualitative Characteristics
+<!-- ## Enhancing Qualitative Characteristics
 
 ### Verifiability
 
@@ -84,4 +83,4 @@ The balance sheet is the financial statement showing a firm's assets, liabilitie
     - international
 - goodwill
 
-Owner's equity, sometimes referred to as net assets, is represented differently depending on the type of business ownership. Business ownership can be in the form of a sole proprietorship, partnership, or a corporation. For a corporation, the owner's equity portion usually shows common stock, and retained earnings (earnings kept in the company). Retained earnings come from the retained earnings statement, prepared prior to the balance sheet. -->
+Owner's equity, sometimes referred to as net assets, is represented differently depending on the type of business ownership. Business ownership can be in the form of a sole proprietorship, partnership, or a corporation. For a corporation, the owner's equity portion usually shows common stock, and retained earnings (earnings kept in the company). Retained earnings come from the retained earnings statement, prepared prior to the balance sheet. --> 

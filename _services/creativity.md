@@ -1,7 +1,7 @@
 ---
 title: "Creativity"
 date: 2019-01-28T15:15:26+10:00
-weight: 2
+weight: 5
 ---
 <!--  -->
 # Unleash Your Creativity with Our Exclusive Programs for Creators
