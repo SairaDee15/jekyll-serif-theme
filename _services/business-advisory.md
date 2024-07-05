@@ -4,31 +4,33 @@ date: 2018-12-28T15:14:39+10:00
 weight: 4
 ---
 
-<!-- umbers must match what really happened in the transaction. The ingredients of faithful representation are completeness, neutrality and free from error.
-Business advisory is the final tier of the accounting pyramid.
-<!--more-->
+<!-- ![Accounting Services](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg) -->
 
-<!-- Business advisory involves reporting on performance as well as advising on strategic plans, risk assessment, and succession plans.
+# Elevate Your Life with Personalized One-on-One Coaching
 
-![Accounting Services](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
+Unlock your full potential with our personalized one-on-one coaching sessions, tailored to meet your unique needs and goals. Our team of expert coaches is dedicated to helping you achieve success in all areas of your life, from career growth to personal well-being.
 
-# Objectives
+Why Choose Our One-on-One Coaching?
+- Personalized Attention: Our coaches provide personalized attention to help you achieve your goals.
+- Expert Coaches: Our diverse team of professional coaches brings a wealth of experience and specialized knowledge.
+- Customized Plans: Receive a personalized coaching plan designed to address your specific challenges and aspirations.
+- Holistic Approach: We focus on your overall growth, including mental, physical, and emotional well-being.
+- Flexible Scheduling: Enjoy the convenience of flexible session times to fit your busy lifestyle.
+  
+## What to Expect
 
-Financial accounting and financial reporting are often used as synonyms.
+Each coaching session includes:
 
-1. According to International Financial Reporting Standards: the objective of financial reporting is:
-2. To provide financial information that is useful to existing and potential investors, lenders and other creditors in making decisions about providing resources to the reporting entity.
-3. According to the European Accounting Association:
+- In-depth assessments to understand your strengths and areas for improvement
+- Goal-setting strategies to keep you motivated and on track
+- Practical tools and techniques to overcome obstacles
+- Continuous support and feedback to ensure your progress
+  
+Our clients' success stories speak volumes about the transformative power of our coaching. See the positive impact we've made in the lives of countless individuals by exploring our testimonials and success stories.
 
-## Relevance
+Ready to transform your life? Connect with one of our expert coaches today and start your journey to a brighter future.
 
-Relevance is the capacity of the financial information to influence the decision of its users. The ingredients of relevance are the predictive value and confirmatory value. Materiality is a sub-quality of relevance.
-
-> The ingredients of relevance are the predictive value and confirmatory value.
-
-Information is considered material if its omission or misstatement could influence the economic decisions of users taken on the basis of the financial statements.
-
-## Faithful Representation
+<!-- ## Faithful Representation
 
 Faithful representation means that the actual effects of the transactions shall be properly accounted for and reported in the financial statements. The words and n
 ## Enhancing Qualitative Characteristics
@@ -82,6 +84,6 @@ The balance sheet is the financial statement showing a firm's assets, liabilitie
   - patents
     - pending
     - international
-- goodwill
+- goodwill -->
 
 <!-- Owner's equity, sometimes referred to as net assets, is represented differently depending on the type of business ownership. Business ownership can be in the form of a sole proprietorship, partnership, or a corporation. For a corporation, the owner's equity portion usually shows common stock, and retained earnings (earnings kept in the company). Retained earnings come from the retained earnings statement, prepared prior to the balance sheet. --> 
