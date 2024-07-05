@@ -4,34 +4,34 @@ date: 2019-01-28T15:15:26+10:00
 weight: 2
 ---
 
-<!-- Cyanee nec pedicis positi. Esse et diem forte quoque et ieiunia
-vixque dixit negari _ullis stamina_: trahit. Tanta rictus in mitia causa, Phoebo
-nisi mater acta serpens cacumen dapibus caeli umidus detegeret viri conlato
-cadet
 
-![Accounting Services](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
+<!-- ![Accounting Services](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg) -->
+<!--  -->
+# Boost Your Health with Our Energizing Jogging Sessions
 
-# Objectives
+Take your fitness to the next level with our invigorating jogging sessions, designed for all fitness levels. Whether you're a beginner or an experienced runner, our sessions offer the perfect opportunity to improve your health, stamina, and overall well-being.
 
-Financial accounting and financial reporting are often used as synonyms.
+## Why Choose Our Jogging Sessions?
 
-1. According to International Financial Reporting Standards: the objective of financial reporting is:
-2. To provide financial information that is useful to existing and potential investors, lenders and other creditors in making decisions about providing resources to the reporting entity.
-3. According to the European Accounting Association:
+- Experienced Instructors: Our skilled instructors provide guidance and support to help you achieve your fitness goals.
+- Scenic Routes: Enjoy jogging through beautiful, carefully selected routes that keep you motivated and inspired.
+- Health Benefits: Jogging enhances cardiovascular health, boosts mood, and promotes weight loss.
+- Community Spirit: Join a welcoming community of joggers and make new friends while staying active.
 
-## Relevance
+## What to Expect
 
-Relevance is the capacity of the financial information to influence the decision of its users. The ingredients of relevance are the predictive value and confirmatory value. Materiality is a sub-quality of relevance.
+Each jogging session includes:
 
-> The ingredients of relevance are the predictive value and confirmatory value.
+- Warm-up and cool-down exercises to prevent injuries
+- Personalized pacing tips to suit your fitness level
+- Hydration and nutrition advice to optimize performance
+- Regular progress tracking to keep you motivated
+   
+Our past jogging sessions have left participants feeling revitalized and accomplished. Check out the vibrant photos of our jogging community and the scenic routes we've explored together.
 
-Information is considered material if its omission or misstatement could influence the economic decisions of users taken on the basis of the financial statements.
+Ready to hit the ground running? Sign up for our jogging sessions today and take the first step towards a healthier, happier you.
 
-## Faithful Representation
-
-Faithful representation means that the actual effects of the transactions shall be properly accounted for and reported in the financial statements. The words and numbers must match what really happened in the transaction. The ingredients of faithful representation are completeness, neutrality and free from error.
-
-## Enhancing Qualitative Characteristics
+<!-- ## Enhancing Qualitative Characteristics
 
 ### Verifiability
 
@@ -84,4 +84,4 @@ The balance sheet is the financial statement showing a firm's assets, liabilitie
     - international
 - goodwill
 
-Owner's equity, sometimes referred to as net assets, is represented differently depending on the type of business ownership. Business ownership can be in the form of a sole proprietorship, partnership, or a corporation. For a corporation, the owner's equity portion usually shows common stock, and retained earnings (earnings kept in the company). Retained earnings come from the retained earnings statement, prepared prior to the balance sheet. -->
+Owner's equity, sometimes referred to as net assets, is represented differently depending on the type of business ownership. Business ownership can be in the form of a sole proprietorship, partnership, or a corporation. For a corporation, the owner's equity portion usually shows common stock, and retained earnings (earnings kept in the company). Retained earnings come from the retained earnings statement, prepared prior to the balance sheet. --> 
