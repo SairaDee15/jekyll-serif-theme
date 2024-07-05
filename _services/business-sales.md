@@ -26,7 +26,7 @@ Each jogging session includes:
 - Personalized pacing tips to suit your fitness level
 - Hydration and nutrition advice to optimize performance
 - Regular progress tracking to keep you motivated
-   
+
 Our past jogging sessions have left participants feeling revitalized and accomplished. Check out the vibrant photos of our jogging community and the scenic routes we've explored together.
 
 Ready to hit the ground running? Sign up for our jogging sessions today and take the first step towards a healthier, happier you.
